@@ -1,42 +1,42 @@
 [
   {
-    name: "Andi Saputra",
-    phoneNumber: "081234567890",
-    photo: "https://randomuser.me/api/portraits/men/1.jpg"
+    "name": "Andi Saputra",
+    "phoneNumber": "081234567890",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg"
   },
   {
-    name: "Budi Santoso",
-    phoneNumber: "082233445566",
-    photo: "https://randomuser.me/api/portraits/men/2.jpg"
+    "name": "Budi Santoso",
+    "phoneNumber": "082233445566",
+    "photo": "https://randomuser.me/api/portraits/men/2.jpg"
   },
   {
-    name: "Citra Lestari",
-    phoneNumber: "083344556677",
-    photo: "https://randomuser.me/api/portraits/women/3.jpg"
+    "name": "Citra Lestari",
+    "phoneNumber": "083344556677",
+    "photo": "https://randomuser.me/api/portraits/women/3.jpg"
   },
   {
-    name: "Dewi Kartika",
-    phoneNumber: "084455667788",
-    photo: "https://randomuser.me/api/portraits/women/4.jpg"
+    "name": "Dewi Kartika",
+    "phoneNumber": "084455667788",
+    "photo": "https://randomuser.me/api/portraits/women/4.jpg"
   },
   {
-    name: "Eko Prasetyo",
-    phoneNumber: "085566778899",
-    photo: "https://randomuser.me/api/portraits/men/5.jpg"
+    "name": "Eko Prasetyo",
+    "phoneNumber": "085566778899",
+    "photo": "https://randomuser.me/api/portraits/men/5.jpg"
   },
   {
-    name: "Fitriani Nur",
-    phoneNumber: "086677889900",
-    photo: "https://randomuser.me/api/portraits/women/6.jpg"
+    "name": "Fitriani Nur",
+    "phoneNumber": "086677889900",
+    "photo": "https://randomuser.me/api/portraits/women/6.jpg"
   },
   {
-    name: "Gilang Ramadhan",
-    phoneNumber: "087788990011",
-    photo: "https://randomuser.me/api/portraits/men/7.jpg"
+    "name": "Gilang Ramadhan",
+    "phoneNumber": "087788990011",
+    "photo": "https://randomuser.me/api/portraits/men/7.jpg"
   },
   {
-    name: "Hana Salsabila",
-    phoneNumber: "088899001122",
-    photo: "https://randomuser.me/api/portraits/women/8.jpg"
+    "name": "Hana Salsabila",
+    "phoneNumber": "088899001122",
+    "photo": "https://randomuser.me/api/portraits/women/8.jpg"
   }
 ]

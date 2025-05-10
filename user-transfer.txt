@@ -2,41 +2,41 @@
   {
     "name": "Andi Saputra",
     "phoneNumber": "081234567890",
-    "photo": "https://randomuser.me/api/portraits/men/1.jpg"
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Andi"
   },
   {
     "name": "Budi Santoso",
     "phoneNumber": "082233445566",
-    "photo": "https://randomuser.me/api/portraits/men/2.jpg"
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Budi"
   },
   {
     "name": "Citra Lestari",
     "phoneNumber": "083344556677",
-    "photo": "https://randomuser.me/api/portraits/women/3.jpg"
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Citra"
   },
   {
     "name": "Dewi Kartika",
     "phoneNumber": "084455667788",
-    "photo": "https://randomuser.me/api/portraits/women/4.jpg"
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dewi"
   },
   {
     "name": "Eko Prasetyo",
     "phoneNumber": "085566778899",
-    "photo": "https://randomuser.me/api/portraits/men/5.jpg"
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Eko"
   },
   {
     "name": "Fitriani Nur",
     "phoneNumber": "086677889900",
-    "photo": "https://randomuser.me/api/portraits/women/6.jpg"
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Fitriani"
   },
   {
     "name": "Gilang Ramadhan",
     "phoneNumber": "087788990011",
-    "photo": "https://randomuser.me/api/portraits/men/7.jpg"
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Gilang"
   },
   {
     "name": "Hana Salsabila",
     "phoneNumber": "088899001122",
-    "photo": "https://randomuser.me/api/portraits/women/8.jpg"
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hana"
   }
 ]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Andi Saputra",
+    "phoneNumber": "081234567890",
+    "photo": "https://i.pravatar.cc/300?img=1",
+    "nominalTransfer": 250000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Budi Santoso",
+    "phoneNumber": "082233445566",
+    "photo": "https://i.pravatar.cc/300?img=11",
+    "nominalTransfer": 100000,
+    "statusTransfer": "transfer"
+  },
+  {
+    "name": "Citra Lestari",
+    "phoneNumber": "083344556677",
+    "photo": "https://i.pravatar.cc/300?img=5",
+    "nominalTransfer": 300000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Dewi Kartika",
+    "phoneNumber": "084455667788",
+    "photo": "https://i.pravatar.cc/300?img=9",
+    "nominalTransfer": 175000,
+    "statusTransfer": "transfer"
+  },
+  {
+    "name": "Eko Prasetyo",
+    "phoneNumber": "085566778899",
+    "photo": "https://i.pravatar.cc/300?img=13",
+    "nominalTransfer": 50000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Fitriani Nur",
+    "phoneNumber": "086677889900",
+    "photo": "https://i.pravatar.cc/300?img=31",
+    "nominalTransfer": 200000,
+    "statusTransfer": "transfer"
+  },
+  {
+    "name": "Gilang Ramadhan",
+    "phoneNumber": "087788990011",
+    "photo": "https://i.pravatar.cc/300?img=15",
+    "nominalTransfer": 125000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Hana Salsabila",
+    "phoneNumber": "088899001122",
+    "photo": "https://i.pravatar.cc/300?img=23",
+    "nominalTransfer": 275000,
+    "statusTransfer": "transfer"
+  },
+  {
+    "name": "Irfan Maulana",
+    "phoneNumber": "089900112233",
+    "photo": "https://i.pravatar.cc/300?img=21",
+    "nominalTransfer": 150000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Joko Anwar",
+    "phoneNumber": "081112223344",
+    "photo": "https://i.pravatar.cc/300?img=19",
+    "nominalTransfer": 80000,
+    "statusTransfer": "transfer"
+  },
+  {
+    "name": "Kiki Amalia",
+    "phoneNumber": "082223344556",
+    "photo": "https://i.pravatar.cc/300?img=27",
+    "nominalTransfer": 90000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Lia Permata",
+    "phoneNumber": "083334445566",
+    "photo": "https://i.pravatar.cc/300?img=17",
+    "nominalTransfer": 230000,
+    "statusTransfer": "transfer"
+  },
+  {
+    "name": "Miko Saputro",
+    "phoneNumber": "084445556677",
+    "photo": "https://i.pravatar.cc/300?img=35",
+    "nominalTransfer": 120000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Nina Marlina",
+    "phoneNumber": "085556667788",
+    "photo": "https://i.pravatar.cc/300?img=37",
+    "nominalTransfer": 300000,
+    "statusTransfer": "transfer"
+  },
+  {
+    "name": "Oscar Pradana",
+    "phoneNumber": "086667778899",
+    "photo": "https://i.pravatar.cc/300?img=39",
+    "nominalTransfer": 40000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Putri Ayu",
+    "phoneNumber": "087778889900",
+    "photo": "https://i.pravatar.cc/300?img=41",
+    "nominalTransfer": 500000,
+    "statusTransfer": "transfer"
+  },
+  {
+    "name": "Qori Indah",
+    "phoneNumber": "088889990011",
+    "photo": "https://i.pravatar.cc/300?img=43",
+    "nominalTransfer": 110000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Rian Kurniawan",
+    "phoneNumber": "089999001122",
+    "photo": "https://i.pravatar.cc/300?img=45",
+    "nominalTransfer": 60000,
+    "statusTransfer": "transfer"
+  },
+  {
+    "name": "Siti Hajar",
+    "phoneNumber": "081000111222",
+    "photo": "https://i.pravatar.cc/300?img=47",
+    "nominalTransfer": 170000,
+    "statusTransfer": "send"
+  },
+  {
+    "name": "Tono Wijaya",
+    "phoneNumber": "082111222333",
+    "photo": "https://i.pravatar.cc/300?img=49",
+    "nominalTransfer": 200000,
+    "statusTransfer": "transfer"
+  }
+]

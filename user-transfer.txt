@@ -39,14 +39,14 @@
     "phoneNumber": "088899001122",
     "photo": "https://i.pravatar.cc/300?img=23"
   },
-{
+  {
     "name": "Oscar Pradana",
     "phoneNumber": "086667778899",
-    "photo": "https://i.pravatar.cc/300?img=39",
+    "photo": "https://i.pravatar.cc/300?img=39"
   },
   {
     "name": "Putri Ayu",
     "phoneNumber": "087778889900",
-    "photo": "https://i.pravatar.cc/300?img=41",
+    "photo": "https://i.pravatar.cc/300?img=41"
   }
 ]

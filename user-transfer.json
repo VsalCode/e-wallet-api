@@ -40,9 +40,11 @@
     "photo": "https://i.pravatar.cc/300?img=23"
   },
   {
-    "name": "Oscar Pradana",
-    "phoneNumber": "086667778899",
-    "photo": "https://i.pravatar.cc/300?img=39"
+    "name": "Qori Indah",
+    "phoneNumber": "088889990011",
+    "photo": "https://i.pravatar.cc/300?img=43",
+    "nominalTransfer": 110000,
+    "statusTransfer": "send"
   },
   {
     "name": "Putri Ayu",
